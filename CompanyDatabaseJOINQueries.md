@@ -25,3 +25,10 @@ Company Database (the provided database) – JOIN Queries
 
 ![](image.join/Q5.PNG) 
 
+---------------------------
+6. Display the IDs and names of employees in department 30 with a salary between 1000 and 2000 LE. 
+
+![](image.join/Q6.PNG) 
+
+--------------------------
+
