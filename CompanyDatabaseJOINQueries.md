@@ -59,3 +59,9 @@ address, and birthdate.
 ![](image.join/Q10.PNG) 
 
 --------------------------
+-11. Display all data of managers in the company. 
+
+
+![](image.join/Q11.PNG) 
+
+--------------------------
