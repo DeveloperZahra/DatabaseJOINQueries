@@ -38,3 +38,9 @@
 ![](image.join/Q7.PNG) 
 
 --------------------------
+8. Find the names of employees who are directly supervised by "Kamel Mohamed".
+
+
+![](image.join/Q8.PNG) 
+
+--------------------------
