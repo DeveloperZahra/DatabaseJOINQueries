@@ -44,3 +44,10 @@
 ![](image.join/Q8.PNG) 
 
 --------------------------
+
+9. Retrieve the names of employees and the names of the projects they work on, sorted by project name. 
+
+
+![](image.join/Q9.PNG) 
+
+--------------------------
