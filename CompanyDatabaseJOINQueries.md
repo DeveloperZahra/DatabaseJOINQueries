@@ -19,3 +19,9 @@ Company Database (the provided database) – JOIN Queries
 4. Display the project ID, name, and location of all projects located in Cairo or Alex.
 
 ![](image.join/Q4.PNG)
+
+---------------------------
+5. Display all project data where the project name starts with the letter 'A'. 
+
+![](image.join/Q5.PNG) 
+
