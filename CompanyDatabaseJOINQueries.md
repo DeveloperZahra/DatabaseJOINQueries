@@ -11,3 +11,8 @@ Company Database (the provided database) – JOIN Queries
 ![](image.join/Q2.PNG)
 
 -------------------------------
+3. Display full data of all dependents, along with the full name of the employee they depend on. 
+
+![](image.join/Q3.PNG)
+
+---------------------------
