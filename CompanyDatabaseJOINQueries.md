@@ -66,7 +66,7 @@ address, and birthdate.
 
 --------------------------
 
-12.  Display all employees and their dependents, even if some employees have no dependents. 
+12.  Display all employees and their dependents, even if some employees have no dependents... 
 
 
 ![](image.join/Q12.PNG) 
