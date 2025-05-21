@@ -1,4 +1,4 @@
-Company Database (the provided database) – JOIN Queries
+ï»¿Company Database (the provided database) â€“ JOIN Queries
 --------------------------------------------------------------
 1. Display the department ID, department name, manager ID, and the full name of the manager. 
 
@@ -32,3 +32,9 @@ Company Database (the provided database) – JOIN Queries
 
 --------------------------
 
+7. Retrieve the names of employees in department 10 who work â‰¥ 10 hours/week on the "AL Rabwah" project. 
+
+
+![](image.join/Q7.PNG) 
+
+--------------------------
