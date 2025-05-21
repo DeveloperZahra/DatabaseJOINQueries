@@ -4,4 +4,10 @@ Company Database (the provided database) – JOIN Queries
 
 ![](image.join/Q1.PNG)
 
+------------------------
 
+2. Display the names of departments and the names of the projects
+
+![](image.join/Q2.PNG)
+
+-------------------------------
