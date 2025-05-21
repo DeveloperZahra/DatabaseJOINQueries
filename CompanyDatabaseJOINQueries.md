@@ -51,3 +51,11 @@
 ![](image.join/Q9.PNG) 
 
 --------------------------
+
+10.  For each project located in Cairo, display the project number, controlling department name, manager's last name, 
+address, and birthdate.
+
+
+![](image.join/Q10.PNG) 
+
+--------------------------
